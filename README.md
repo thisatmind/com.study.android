@@ -9,4 +9,4 @@
 
 이 자료를 만들면서 참고한 자료들 입니다.
 
-T-academy Android Application 프로그래밍 기초(https://oic.skplanet.com/live/player/onlineLectureDetail.action)
+T-academy Android Application 프로그래밍 기초(https://oic.skplanet.com/live/player/listOnline.action)
